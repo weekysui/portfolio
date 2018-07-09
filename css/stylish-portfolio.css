@@ -370,3 +370,8 @@ a:hover, a:focus, a:active {
   color: #ecb807 !important;
 }
 
+.icn_red { 
+  color: #FF3D6A; 
+  height: 10;
+  width: 10;
+  }
